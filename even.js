@@ -7,3 +7,4 @@ const isEvenOdd = (num) => typeof num === "number" && num % 2 === 0 ? console.lo
 
 isEvenOdd(8);
 isEven(3);
+
